@@ -1,0 +1,1 @@
+type chain.pem cert.pem > fullchain.pem
